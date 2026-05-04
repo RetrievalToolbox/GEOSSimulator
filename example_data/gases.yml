@@ -1,0 +1,9 @@
+O2:
+  spectroscopy: /discover/nobackup/psomkuti/absco/v5.0/o2_v151005_cia_mlawer_v151005r1_narrow.hdf
+  type: ABSCO
+  unit: # leave this empty to have "parts", otherwise put: ppm, ppb, ...
+
+CO2:
+  spectroscopy: /discover/nobackup/psomkuti/absco/v5.0/co2_devi2015_wco2scale=nist_sco2scale=unity.hdf
+  type: ABSCO
+  unit: ppm

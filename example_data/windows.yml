@@ -1,0 +1,15 @@
+O2A:
+  wavenumber_unit: cm^-1
+  wavenumber_min: 12921.0
+  wavenumber_max: 13229.0
+  wavenumber_ref: 13000.0
+  wavenumber_spacing: 0.01
+  wavenumber_buffer: 0.01
+
+Weak_CO2:
+  wavenumber_unit: cm^-1
+  wavenumber_min: 6141.0
+  wavenumber_max: 6299.0
+  wavenumber_ref: 6200.0
+  wavenumber_spacing: 0.01
+  wavenumber_buffer: 0.01
