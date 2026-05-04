@@ -56,6 +56,7 @@ function write_out(
 
             # Create the radiance output variable
             rad = defVar(grp, "radiance", Float64, ("spectral", "polarization", "scene"),
+                deflatelevel = 5,
                 attrib = OrderedDict(
                     "units" => unit_str(buffer.rt[swin].radiance_unit),
                 )
